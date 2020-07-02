@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pkanakad27/my-first-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pkanakad27/my-first-react-app/static/js/main.35201956.chunk.js",
+    "main.js.map": "/pkanakad27/my-first-react-app/static/js/main.35201956.chunk.js.map",
+    "runtime-main.js": "/pkanakad27/my-first-react-app/static/js/runtime-main.12a1cf87.js",
+    "runtime-main.js.map": "/pkanakad27/my-first-react-app/static/js/runtime-main.12a1cf87.js.map",
+    "static/js/2.067f0017.chunk.js": "/pkanakad27/my-first-react-app/static/js/2.067f0017.chunk.js",
+    "static/js/2.067f0017.chunk.js.map": "/pkanakad27/my-first-react-app/static/js/2.067f0017.chunk.js.map",
+    "index.html": "/pkanakad27/my-first-react-app/index.html",
+    "precache-manifest.3c1646a9f4bd99da153a6f235b5a5849.js": "/pkanakad27/my-first-react-app/precache-manifest.3c1646a9f4bd99da153a6f235b5a5849.js",
+    "service-worker.js": "/pkanakad27/my-first-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pkanakad27/my-first-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.067f0017.chunk.js.LICENSE.txt": "/pkanakad27/my-first-react-app/static/js/2.067f0017.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a1cf87.js",
+    "static/js/2.067f0017.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.35201956.chunk.js"
+  ]
+}
